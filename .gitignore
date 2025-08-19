@@ -1,0 +1,9 @@
+~$*.xls*
+*.csv
+*.xlsx
+!videos_with_ids.xlsx
+*.xls
+*.txt
+client_secret_*.json
+token.pickle
+venv/
